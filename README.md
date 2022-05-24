@@ -1,6 +1,6 @@
 Hi, I'm Ismael 👋
 
-I'm learning PHP and MySQL 🐬
+I'm learning Javascript
 
 💻 My dream is to become a Front-end developer 💻 
 

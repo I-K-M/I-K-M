@@ -1,6 +1,6 @@
 Hi, I'm Ismael 👋
 
-💻 I am a frontend junior developer using JS, REACT, NEXT, REDUX and FIREBASE 💻 
+💻 I am a frontend junior developer using REACT, NEXT, REDUX 💻 
 
 📈 My next goal is to learn Solidity and Ether.js 📈
 

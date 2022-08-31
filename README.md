@@ -4,4 +4,4 @@ Hi, I'm Ismael 👋
 
 📈 My next goal is to learn Solidity and Ether.js 📈
 
-📨 📱 Please feel free to contact me : ik-m@outlook.fr ; +212 6 94 18 17 03
+📨 📱 Please feel free to contact me : ikm.frontend@gmail.com ; +212 6 94 18 17 03

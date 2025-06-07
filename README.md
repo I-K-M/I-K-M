@@ -1,10 +1,40 @@
-Hi, I'm Ismael 👋
+<h1 align="left">Ismael • Web Developer</h1>
 
-💻 I am a developer building websites and deploying SEO strategies 💻
+<p align="left">
+  <code>React</code> • <code>Next.js</code> • <code>TypeScript</code> • <code>TailwindCSS</code> • <code>Payload CMS</code><br>
+  <code>MERN stack</code> • <code>SQL</code> • <code>PHP templates</code> • <code>Liquid&Shopify</code> • <code>WordPress</code>
+</p>
 
-I'm passionate about development, especially when it comes to crafting beautiful and functional user interfaces. My expertise lies in HTML/CSS/JS/React, where I spend a lot of time building responsive and visually appealing websites. I also use PHP, Node & Liquid to bring more interactivity and functionality to my projects. I'm always exploring new technologies and frameworks.
+---
 
-While my main focus is on the front-end, I'm gradually exploring the back-end world to become a more well-rounded developer. My goal (when I find the time): learn Golang.
-I'm currently working for the Talk Digital agency 📈
+### What I do
 
-📨 📱 Please feel free to contact me : ikm.frontend@gmail.com ; +212 6 94 18 17 03
+- Build fast, responsive UIs with clean structure
+- Deploy & manage CMS
+- Integrate various automations/payment/other solutions
+- Maintain production-grade client projects
+
+---
+
+### Current stack
+
+- Frontend: `React`, `Next.js`, `TailwindCSS`, `Astro`, `Framer Motion`, `TypeScript`, `HTML/CSS`
+- Backend/API: `Payload CMS`, `Node.js`, `Express`, `MongoDB`, `PostgreSQL`, `Prisma`, `SQL`
+- Templating: `PHP`, `Liquid`
+- Platforms: `Vercel`, `Docker`, `Railway`, `other VPS`
+
+---
+
+### Side projects
+
+- React admin dashboards + authentication
+- Next.js + Payload CMS
+- full custom WordPress
+- learning Golang
+- AI integrations
+
+---
+
+### 🏢 Working with [Talk Digital](https://talkdigital.com.au)
+
+An AU-based agency focused on performance, SEO, and shipping.

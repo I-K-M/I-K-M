@@ -1,8 +1,8 @@
 <h1 align="left">Ismael • Web Developer</h1>
 
 <p align="left">
-  <code>React</code> • <code>Next.js</code> • <code>TypeScript</code> • <code>TailwindCSS</code> • <code>Payload CMS</code><br>
-  <code>MERN stack</code> • <code>SQL</code> • <code>PHP templates</code> • <code>Liquid&Shopify</code> • <code>WordPress</code>
+  <code>JS/TS</code> • <code>React</code> • <code>Next.js</code> • <code>TailwindCSS</code> • <code>HTML/CSS</code><br>
+  <code>MERN stack</code> • <code>SQL</code> • <code>php</code> • <code>Shopify</code> • <code>CMSs</code>
 </p>
 
 ---
@@ -10,18 +10,17 @@
 ### What I do
 
 - Build fast, responsive UIs with clean structure
-- Deploy & manage CMS
-- Integrate various automations/payment/other solutions
+- Deploy & manage CMSs
+- Integrate various automations/payment/various solutions
 - Maintain production-grade client projects
 
 ---
 
 ### Current stack
 
-- Frontend: `React`, `Next.js`, `TailwindCSS`, `Astro`, `Framer Motion`, `TypeScript`, `HTML/CSS`
-- Backend/API: `Payload CMS`, `Node.js`, `Express`, `MongoDB`, `PostgreSQL`, `Prisma`, `SQL`
-- Templating: `PHP`, `Liquid`
-- Platforms: `Vercel`, `Docker`, `Railway`, `other VPS`
+- Frontend: `vanilla JS`, `HTML/CSS`, `React`, `Next.js`, `TailwindCSS`, `Astro`, `Framer Motion`, `TypeScript`
+- Backend/API: `Node.js`, `php`, `Express`, `MongoDB`, `PostgreSQL`, `Prisma`, `SQL`, `Payload CMS`, `Strapi`
+- Platforms/tools: `Docker`, `Railway`, `mySQL`, `SiteGround`, `Slack`, `Figma`, `Gimp`, `Vercel`
 
 ---
 
@@ -29,7 +28,7 @@
 
 - React admin dashboards + authentication
 - Next.js + Payload CMS
-- full custom WordPress
+- full custom WordPress themes
 - learning Golang
 - AI integrations
 

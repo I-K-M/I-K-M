@@ -13,6 +13,7 @@
 - Deploy & manage CMSs
 - Integrate various automations/payment/various solutions
 - Maintain production-grade client projects
+- PayloadCMS to replace WordPress+WooCommerce
 
 ---
 
@@ -26,11 +27,8 @@
 
 ### Side projects
 
-- React admin dashboards + authentication
-- Next.js + Payload CMS
-- full custom WordPress themes
-- learning Golang
-- AI integrations
+- learning cloud (AWS, terraform...)
+- learning cybersecurity
 
 ---
 

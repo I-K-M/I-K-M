@@ -28,7 +28,7 @@
 ### Side projects
 
 - learning cloud (AWS, terraform...)
-- learning cybersecurity
+- learning cybersecurity basics
 
 ---
 

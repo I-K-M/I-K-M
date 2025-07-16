@@ -11,8 +11,8 @@
 
 - Build fast, responsive UIs with clean structure
 - Deploy & manage CMSs
-- Integrate various automations/payment/various solutions
-- Maintain production-grade client projects
+- Integrate various automations/payment/other solutions
+- Maintain & debug production client projects
 - PayloadCMS to replace WordPress+WooCommerce
 
 ---

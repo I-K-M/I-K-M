@@ -21,7 +21,7 @@
 
 - Frontend: `vanilla JS`, `HTML/CSS`, `React`, `Next.js`, `TailwindCSS`, `Astro`, `Framer Motion`, `TypeScript`
 - Backend/API: `Node.js`, `php`, `Express`, `MongoDB`, `PostgreSQL`, `Prisma`, `SQL`, `Payload CMS`, `Strapi`
-- Platforms/tools: `Docker`, `Railway`, `mySQL`, `SiteGround`, `Slack`, `Figma`, `Gimp`, `Vercel`
+- Platforms/tools: `Docker`, `Railway`, `mySQL`, `SiteGround`, `cPanel`, `Slack`, `Figma`, `Gimp`, `Photoshop`, `Vercel`
 
 ---
 

@@ -2,7 +2,7 @@
 
 <p align="left">
   <code>JS/TS</code> • <code>React</code> • <code>Next.js</code> • <code>TailwindCSS</code> • <code>HTML/CSS</code><br>
-  <code>MERN stack</code> • <code>SQL</code> • <code>php</code> • <code>Shopify</code> • <code>CMSs</code>
+  <code>SEO</code> • <code>Performance</code> • <code>WordPress</code> • <code>Shopify</code> • <code>Automatisation</code>
 </p>
 
 ---
@@ -21,7 +21,7 @@
 
 - Frontend: `vanilla JS`, `HTML/CSS`, `React`, `Next.js`, `TailwindCSS`, `Astro`, `Framer Motion`, `TypeScript`
 - Backend/API: `Node.js`, `php`, `Express`, `MongoDB`, `PostgreSQL`, `mySQL`, `WordPress`, `Payload CMS`, `Strapi`
-- Platforms/tools: `Docker`, `Railway`, `cPanel`, `Slack`, `Figma`, `Gimp`, `Photoshop`, `Vercel`
+- Platforms/tools: `Docker`, `Railway`, `cPanel`, `Slack`, `Figma`, `Gimp`, `Vercel`, `MailChimp`, `ActiveCampaign`, `n8n`
 
 ---
 

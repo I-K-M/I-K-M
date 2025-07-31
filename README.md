@@ -1,4 +1,4 @@
-<h1 align="left">Ismael • Web Developer</h1>
+<h1 align="left">Ismael • Developer & Strategist</h1>
 
 <p align="left">
   <code>JS/TS</code> • <code>React</code> • <code>Next.js</code> • <code>TailwindCSS</code> • <code>HTML/CSS</code><br>
@@ -9,8 +9,8 @@
 
 ### What I do
 
-- Build fast, responsive UIs with clean structure
-- Deploy & manage CMSs
+- Build fast, responsive websites & apps with clean structure
+- Deploy web strategies (SEO, SEA, social media, AI)
 - Integrate various automations/payment/other solutions
 - Maintain & debug production client projects
 - PayloadCMS to replace WordPress+WooCommerce

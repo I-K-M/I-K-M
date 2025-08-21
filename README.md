@@ -1,4 +1,4 @@
-<h1 align="left">Ismael • Developer & Strategist</h1>
+<h1 align="left">Ismael • Web Developer & Strategist</h1>
 
 <p align="left">
   <code>JS/TS</code> • <code>React</code> • <code>Next.js</code> • <code>TailwindCSS</code> • <code>HTML/CSS</code><br>

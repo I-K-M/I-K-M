@@ -1,7 +1,7 @@
-<h1 align="left">Ismael • Web Developer & Strategist</h1>
+<h1 align="left">Ismael • Web Developer</h1>
 
 <p align="left">
-  <code>JS/TS</code> • <code>React</code> • <code>Next.js</code> • <code>TailwindCSS</code> • <code>HTML/CSS</code><br>
+  <code>JS/TS</code> • <code>Astro</code> • <code>Next.js</code> • <code>TailwindCSS</code> • <code>HTML/CSS</code><br>
   <code>SEO</code> • <code>Performance</code> • <code>WordPress</code> • <code>Shopify</code> • <code>Automatisation</code>
 </p>
 

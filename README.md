@@ -1,8 +1,8 @@
 <h1 align="left">Ismael • Web Developer</h1>
 
 <p align="left">
-  <code>JS/TS</code> • <code>Astro</code> • <code>Next.js</code> • <code>TailwindCSS</code> • <code>HTML/CSS</code><br>
-  <code>SEO</code> • <code>Performance</code> • <code>WordPress</code> • <code>Shopify</code> • <code>Automatisation</code>
+  <code>JS/TS</code> • <code>Astro</code> • <code>Next.js</code> • <code>Python</code> • <code>HTML/CSS</code><br> • <code>PHP</code>
+  <code>SEO</code> • <code>Performance</code> • <code>WordPress</code> • <code>Shopify</code> • <code>Automatisation</code> • <code>AI Agents</code>
 </p>
 
 ---
@@ -12,6 +12,7 @@
 - Build fast, responsive websites & apps with clean structure
 - Deploy web strategies (SEO, SEA, social media, AI)
 - Integrate various automations/payment/other solutions
+- n8n, Zapier, Retell, LangChain + Qdrant RAGs
 - Maintain & debug production client projects
 - PayloadCMS to replace WordPress+WooCommerce
 

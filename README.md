@@ -1,8 +1,8 @@
 <h1 align="left">Ismael • Web Developer</h1>
 
 <p align="left">
-  <code>JS/TS</code> • <code>HTML/CSS</code> • <code>Astro</code> • <code>Next.js</code> • <code>Svelte</code> • <code>SEO</code><br>
-  <code>Node</code> • <code>Express</code> • <code>Python</code> • <code>Flask</code> • <code>FastAPI</code> • <code>AI Agents</code>
+  <code>JS/TS</code> • <code>HTML/CSS</code> • <code>React</code> • <code>Astro</code> • <code>Next.js</code> • <code>Svelte</code> • <code>SEO</code><br>
+  <code>Node</code> • <code>Express</code> • <code>Python</code> • <code>Flask</code> • <code>FastAPI</code> • <code>LangChain</code> • <code>AI Agents</code>
 </p>
 
 ---

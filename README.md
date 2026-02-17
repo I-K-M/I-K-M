@@ -21,8 +21,8 @@
 ### Current stack
 
 - Frontend: `JS/TS`, `HTML/CSS`, `React`, `Next.js`, `Svelte`, `Astro`
-- Backend/API: `Node.js`, `Express`, `Python`, `Flask`, `FastAPI`, `MongoDB`, `PostgreSQL`, `mySQL`, `CMS`
-- Platforms/tools: `Docker`, `Railway`, `cPanel`, `Slack`, `Figma`, `Gimp`, `Vercel`, `MailChimp`, `ActiveCampaign`, `n8n`
+- Backend/API: `Node.js`, `Express`, `Python`, `Flask`, `FastAPI`, `Qdrant`, `LangChain`, `PostgreSQL`, `mySQL`, `CMS`
+- Platforms/tools: `Docker`, `Railway`, `Redis`, `Slack`, `Figma`, `Gimp`, `Vercel`, `MailChimp`, `ActiveCampaign`, `n8n`
 
 ---
 

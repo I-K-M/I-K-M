@@ -1,34 +1,34 @@
 <h1 align="left">Ismael • Web Developer</h1>
 
 <p align="left">
-  <code>JS/TS</code> • <code>Astro</code> • <code>Next.js</code> • <code>Python</code> • <code>HTML/CSS</code> • <code>PHP</code><br>
-  <code>SEO</code> • <code>Performance</code> • <code>WordPress</code> • <code>Shopify</code> • <code>Automatisation</code> • <code>AI Agents</code>
+  <code>JS/TS</code> • <code>HTML/CSS</code> • <code>Astro</code> • <code>Next.js</code> • <code>Svelte</code> • <code>SEO</code><br>
+  <code>Node</code> • <code>Express</code> • <code>Python</code> • <code>Flask</code> • <code>FastAPI</code> • <code>PHP</code>• <code>AI Agents</code>
 </p>
 
 ---
 
 ### What I do
 
-- Build fast, responsive websites & apps with clean structure
-- Deploy web strategies (SEO, SEA, social media, AI)
-- Integrate various automations/payment/other solutions
-- n8n, Zapier, Retell, LangChain + Qdrant RAGs
+- Build clean websites & apps with global strategic vision
+- Integrate automation, marketing, payment solutions
 - Maintain & debug production client projects
-- PayloadCMS to replace WordPress+WooCommerce
+- RAGs and AI agentic solutions development & integration
+- Post-hacking actions & debugging
+- Deploy SEO, performance, UX audits and strategies
 
 ---
 
 ### Current stack
 
-- Frontend: `vanilla JS`, `HTML/CSS`, `React`, `Next.js`, `TailwindCSS`, `Astro`, `Framer Motion`, `TypeScript`
-- Backend/API: `Node.js`, `php`, `Express`, `MongoDB`, `PostgreSQL`, `mySQL`, `WordPress`, `Payload CMS`, `Strapi`
+- Frontend: `JS/TS`, `HTML/CSS`, `React`, `Next.js`, `Svelte`, `Astro`
+- Backend/API: `Node.js`, `Express`, `Python`, `Flask`, `FastAPI`, `php`, `MongoDB`, `PostgreSQL`, `mySQL`, `CMS`
 - Platforms/tools: `Docker`, `Railway`, `cPanel`, `Slack`, `Figma`, `Gimp`, `Vercel`, `MailChimp`, `ActiveCampaign`, `n8n`
 
 ---
 
 ### Side projects
 
-- learning cloud (AWS, terraform...)
+- learning Golang
 - learning cybersecurity basics
 
 ---

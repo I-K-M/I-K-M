@@ -7,6 +7,9 @@
 
 ---
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&count_private=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact&count_private=true)
+
 ### What I do
 
 - Build clean websites & apps with global strategic vision

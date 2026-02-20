@@ -7,8 +7,8 @@
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=I-K-M&show_icons=true&count_private=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=I-K-M&layout=compact&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=I-K-M&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=I-K-M&layout=compact)
 
 ### What I do
 

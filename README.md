@@ -26,13 +26,6 @@
 
 ---
 
-### Side projects
-
-- learning Golang
-- learning cybersecurity basics
-
----
-
 ### 🏢 Working with [Talk Digital](https://talkdigital.com.au)
 
 An AU-based agency focused on performance, SEO, and shipping.

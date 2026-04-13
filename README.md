@@ -29,5 +29,3 @@
 ### 🏢 Working with [Talk Digital](https://talkdigital.com.au)
 
 An AU-based agency focused on performance, SEO, and shipping.
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=I-K-M&layout=compact)

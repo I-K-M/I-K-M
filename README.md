@@ -30,4 +30,4 @@
 
 An AU-based agency focused on performance, SEO, and shipping.
 
-![Stats](https://github-readme-stats.vercel.app/api?username=I-K-M&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact)

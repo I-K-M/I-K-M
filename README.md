@@ -2,18 +2,6 @@
   <img src="./assets/profile-banner.svg" alt="Ismael Kouddane; Full-Stack Engineering to DevSecOps" width="100%" />
 </p>
 
-<p align="center">
-  <strong>Full-Stack Engineer → DevSecOps & Security Engineering</strong>
-</p>
-
-<p align="center">
-  Building production systems; and going deeper into securing how they are built, shipped and operated.
-</p>
-
-<p align="center">
-  <code>BUILD</code> · <code>SHIP</code> · <code>HARDEN</code> · <code>AUTOMATE</code>
-</p>
-
 ---
 
 ## Engineering background

@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
-  <title id="title">Ismael Kouddane — Full-Stack Engineering to DevSecOps</title>
+  <title id="title">Ismael Kouddane; Full-Stack Engineering to DevSecOps</title>
   <desc id="desc">GitHub profile banner showing a transition from full-stack engineering toward DevSecOps and security engineering.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
@@ -16,27 +16,27 @@
   <rect x="1" y="1" width="1198" height="318" rx="17" fill="none" stroke="#30363d"/>
 
   <circle cx="34" cy="28" r="6" fill="#f85149"/>
-  <circle cx="54" cy="28" r="6" fill="#d29922"/>
-  <circle cx="74" cy="28" r="6" fill="#3fb950"/>
+  <circle cx="54" cy="28" r="6" fill="#f0883e"/>
+  <circle cx="74" cy="28" r="6" fill="#d29922"/>
   <text x="98" y="33" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14">I-K-M / engineering-profile</text>
 
   <text x="56" y="106" fill="#f0f6fc" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="44" font-weight="700">ISMAEL KOUDDANE</text>
-  <text x="58" y="144" fill="#58a6ff" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="20" font-weight="600">FULL-STACK ENGINEERING  →  DEVSECOPS  →  SECURITY</text>
-  <text x="58" y="196" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="16">production systems · secure delivery · cloud · application security</text>
+  <text x="58" y="144" fill="#f0883e" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="20" font-weight="600">FULL-STACK ENGINEERING  →  DEVSECOPS  →  SECURITY</text>
+  <text x="58" y="196" fill="#d29922" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="16">production systems · secure delivery · cloud · application security</text>
 
   <g transform="translate(58 238)">
-    <rect width="380" height="44" rx="8" fill="#0d1117" stroke="#30363d"/>
-    <text x="22" y="28" fill="#3fb950" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="16" font-weight="700">BUILD · SHIP · HARDEN · AUTOMATE</text>
+    <rect width="380" height="44" rx="8" fill="#0d1117" stroke="#f0883e"/>
+    <text x="22" y="28" fill="#f0883e" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="16" font-weight="700">BUILD · SHIP · HARDEN · AUTOMATE</text>
   </g>
 
   <g transform="translate(790 70)">
     <rect width="350" height="212" rx="12" fill="#010409" stroke="#30363d"/>
-    <text x="20" y="34" fill="#3fb950" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14">$ whoami</text>
+    <text x="20" y="34" fill="#f85149" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14">$ whoami</text>
     <text x="20" y="58" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14">full-stack engineer</text>
-    <text x="20" y="92" fill="#3fb950" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14">$ current-focus</text>
+    <text x="20" y="92" fill="#f0883e" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14">$ current-focus</text>
     <text x="20" y="116" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14">devsecops · cloud · appsec</text>
-    <text x="20" y="150" fill="#3fb950" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14">$ principle</text>
+    <text x="20" y="150" fill="#d29922" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14">$ principle</text>
     <text x="20" y="174" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14">secure the path to production</text>
-    <rect x="20" y="190" width="9" height="14" fill="#58a6ff" opacity=".9"/>
+    <rect x="20" y="190" width="9" height="14" fill="#f0883e" opacity=".95"/>
   </g>
 </svg>

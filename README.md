@@ -53,23 +53,7 @@ I just spend increasingly more time thinking about what happens **between `git p
 
 `FastAPI` · `Flask` · `REST APIs` · `WordPress` · `Shopify` · `Qdrant` · `LangChain` · `LangGraph`
 
----
 
-## Security engineering path
-
-Currently going deeper into:
-
-- AWS IAM and cloud security
-- CI/CD and software supply-chain security
-- Linux and container hardening
-- web application security
-- infrastructure as code
-- security automation
-- AI / agent security
-
-The objective is not to leave software engineering behind.
-
-It's to understand and secure more of the system around the software.
 
 ---
 

@@ -6,17 +6,17 @@
 
 ## About
 
-I work on production web applications and internal tools at [Talk Digital](https://talkdigital.com.au). My day-to-day involves building and maintaining client websites, handling hosting and deployments, troubleshooting issues, and developing integrations and automation.
+I'm a freelance DevSecOps engineer working across software engineering, infrastructure and cybersecurity. I design and develop technical solutions, manage production environments, automate workflows and improve the security and reliability of applications and systems.
 
-Security is part of that work: server hardening, access controls, vulnerability checks and safer deployment practices. I also work on AppSec, CI/CD security and AWS through hands-on projects and labs.
+My work combines hands-on engineering with **DevSecOps, application security and infrastructure hardening**, with a focus on Linux, CI/CD, secure deployments and AWS.
 
 ## Areas of work
 
 ```text
-DevSecOps          CI/CD · secure delivery · automation
-Application Sec    Web security · APIs · authentication
+DevSecOps          CI/CD · Git · automations
+AppSec             Web security · APIs · RAGs & AI solutions
 Infrastructure     Linux · hosting · Docker · monitoring
-Cloud Security     AWS · IAM · Terraform labs
+Cloud Security     AWS · IAM · Terraform
 Engineering        Web applications · integrations · maintenance
 ```
 
@@ -28,7 +28,7 @@ Engineering        Web applications · integrations · maintenance
   <img src="https://skillicons.dev/icons?i=linux,docker,aws,terraform,githubactions,nginx,bash" alt="Infrastructure and security tools" />
 </p>
 
-`SSH` · `Networking` · `IAM` · `Trivy` · `Gitleaks` · `Nmap` · `Wireshark`
+`Linux` · `Docker` · `AWS` · `Terraform` · `GitHub` · `nginx` · `Wireshark`
 
 ### Development & automation
 
@@ -36,4 +36,4 @@ Engineering        Web applications · integrations · maintenance
   <img src="https://skillicons.dev/icons?i=python,go,nodejs,ts,php,postgres" alt="Development and automation tools" />
 </p>
 
-`REST APIs` · `WordPress` · `Shopify` · `Flask` · `Bash` · `Automation`
+`Python` · `php` · `Node` · `Go` · `Bash` · `TS`

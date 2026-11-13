@@ -1,68 +1,29 @@
-<p align="center">
-  <img src="./assets/profile-banner.svg" alt="Ismael Kouddane; Full-Stack Engineering to DevSecOps" width="100%" />
-</p>
+# Ismael Kouddane
 
----
+**DevSecOps · Cloud Security · Cybersecurity**
 
-## Engineering background
+Security engineering across AWS, Linux, containers, CI/CD and web infrastructure.
 
-I come from full-stack development and production engineering.
+## Areas
 
-I work across web applications, APIs, CMS platforms, infrastructure, integrations, automation and AI systems; from implementation to deployment, maintenance and production incidents.
+- **DevSecOps:** CI/CD security, dependency and container scanning, SBOMs, signed releases.
+- **Cloud Security:** AWS IAM, infrastructure security, CloudTrail, network controls.
+- **Infrastructure Security:** Linux hardening, SSH, firewalls, Docker, monitoring.
+- **Application Security:** Web and API security, authentication, vulnerability assessment.
+- **Automation:** Bash, Python, Go.
 
-I'm now moving deeper into **DevSecOps, Cloud Security and Security Engineering**, with a particular interest in the boundary between application code and the infrastructure that runs it.
+## Selected projects
 
-```text
-Application → CI/CD → Containers → Linux → Infrastructure → Cloud → Security
-```
+- [**VPSGuard**](https://github.com/I-K-M/vpsguard) — Linux server security audits and controlled hardening with rollback.
+- [**Secbox**](https://github.com/I-K-M/secbox) — Hardened Docker toolbox for security testing, with CI checks, SBOMs and image signing.
+- [**Secure AWS Terraform Platform**](https://github.com/I-K-M/terraform-template) — Private EC2 infrastructure with IAM, IMDSv2, SSM and centralised logging.
+- [**AWS Security Assessment**](https://github.com/I-K-M/AWS-Audit-Report) — IAM privilege escalation, cloud attack paths, detection and remediation in AWS labs.
+- [**WP Security**](https://github.com/I-K-M/wp_security) — Exposure checks and local security triage using Go and Python.
 
----
+## Tools
 
-## Current focus
+`AWS` · `Linux` · `Docker` · `Terraform` · `GitHub Actions` · `Trivy` · `Cosign` · `Nmap` · `Python` · `Bash` · `Go`
 
-```text
-DevSecOps        CI/CD security · supply chain · secure delivery
-Cloud Security   AWS · IAM · infrastructure security
-Linux            hardening · networking · services · observability
-Containers       Docker · isolation · capabilities · image security
-AppSec           web security · authentication · APIs · secure design
-Automation       Bash · Python · Go · security tooling
-```
+## Professional experience
 
-I still build applications.
-
-I just spend increasingly more time thinking about what happens **between `git push` and production**; and what can go wrong there.
-
----
-
-## Toolbox
-
-### Security & infrastructure
-
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,docker,aws,terraform,githubactions,nginx,bash" alt="Security and infrastructure stack" />
-</p>
-
-`IAM` · `Networking` · `GitHub Actions` · `Trivy` · `Cosign` · `SBOM` · `Nmap` · `Wireshark`
-
-### Software engineering
-
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,python,go,php,postgres" alt="Software engineering stack" />
-</p>
-
-`FastAPI` · `Flask` · `REST APIs` · `WordPress` · `Shopify` · `Qdrant` · `LangChain` · `LangGraph`
-
-
-
----
-
-## Working with [Talk Digital](https://talkdigital.com.au)
-
-I work across production web applications and internal tooling: application development, integrations, deployment, automation, AI systems, debugging, production incidents, infrastructure and security improvements.
-
----
-
-<p align="center">
-  <strong>Build systems. Understand them. Break assumptions. Harden the result.</strong>
-</p>
+Production infrastructure, deployment automation, systems troubleshooting and security improvements at [Talk Digital](https://talkdigital.com.au).

@@ -1,29 +1,39 @@
-# Ismael Kouddane
+<p align="center">
+  <img src="./assets/profile-banner.svg" alt="Ismael Kouddane — DevSecOps, engineering and security" width="100%" />
+</p>
 
-**DevSecOps · Cloud Security · Cybersecurity**
+---
 
-Security engineering across AWS, Linux, containers, CI/CD and web infrastructure.
+## About
 
-## Areas
+I work on production web applications and internal tools at [Talk Digital](https://talkdigital.com.au). My day-to-day involves building and maintaining client websites, handling hosting and deployments, troubleshooting issues, and developing integrations and automation.
 
-- **DevSecOps:** CI/CD security, dependency and container scanning, SBOMs, signed releases.
-- **Cloud Security:** AWS IAM, infrastructure security, CloudTrail, network controls.
-- **Infrastructure Security:** Linux hardening, SSH, firewalls, Docker, monitoring.
-- **Application Security:** Web and API security, authentication, vulnerability assessment.
-- **Automation:** Bash, Python, Go.
+Security is part of that work: server hardening, access controls, vulnerability checks and safer deployment practices. I also work on AppSec, CI/CD security and AWS through hands-on projects and labs.
 
-## Selected projects
+## Areas of work
 
-- [**VPSGuard**](https://github.com/I-K-M/vpsguard) — Linux server security audits and controlled hardening with rollback.
-- [**Secbox**](https://github.com/I-K-M/secbox) — Hardened Docker toolbox for security testing, with CI checks, SBOMs and image signing.
-- [**Secure AWS Terraform Platform**](https://github.com/I-K-M/terraform-template) — Private EC2 infrastructure with IAM, IMDSv2, SSM and centralised logging.
-- [**AWS Security Assessment**](https://github.com/I-K-M/AWS-Audit-Report) — IAM privilege escalation, cloud attack paths, detection and remediation in AWS labs.
-- [**WP Security**](https://github.com/I-K-M/wp_security) — Exposure checks and local security triage using Go and Python.
+```text
+DevSecOps          CI/CD · secure delivery · automation
+Application Sec    Web security · APIs · authentication
+Infrastructure     Linux · hosting · Docker · monitoring
+Cloud Security     AWS · IAM · Terraform labs
+Engineering        Web applications · integrations · maintenance
+```
 
-## Tools
+## Toolbox
 
-`AWS` · `Linux` · `Docker` · `Terraform` · `GitHub Actions` · `Trivy` · `Cosign` · `Nmap` · `Python` · `Bash` · `Go`
+### Infrastructure & security
 
-## Professional experience
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,docker,aws,terraform,githubactions,nginx,bash" alt="Infrastructure and security tools" />
+</p>
 
-Production infrastructure, deployment automation, systems troubleshooting and security improvements at [Talk Digital](https://talkdigital.com.au).
+`SSH` · `Networking` · `IAM` · `Trivy` · `Gitleaks` · `Nmap` · `Wireshark`
+
+### Development & automation
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,go,nodejs,ts,php,postgres" alt="Development and automation tools" />
+</p>
+
+`REST APIs` · `WordPress` · `Shopify` · `Flask` · `Bash` · `Automation`
